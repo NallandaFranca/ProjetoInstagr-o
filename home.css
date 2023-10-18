@@ -1,0 +1,81 @@
+.perfil {
+    border: solid 1px rgb(212, 212, 212);
+    position: fixed;
+    top: -0%;
+    left: 00px;
+    height: 100%;
+    background-color: #ffffff;
+    width: 350px;
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.n5,
+.n51 {
+    
+    top: 170px;
+    left: 20px;
+    margin-top: 3%;
+    font-size: 22px;
+    cursor: pointer;
+    position: relative;
+    padding: 10px;
+
+}
+
+.nome1 {
+    position: fixed;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    left: 50px;
+    cursor: pointer;
+    top: 30px;
+    font-size: 40px;
+}
+
+.n5:hover {
+    background-color: #e4e4e4;
+    border-radius: 10px;
+    width: 250px;
+    padding: 10px;
+}
+
+.n51:hover {
+    background-color: #e4e4e4;
+    border-radius: 10px;
+    width: 250px;
+    padding: 10px;
+}
+
+
+.q {
+    position: relative;
+    left: 600px;
+    border: 1px;
+    background-color: rgb(255, 255, 255);
+    width: 600px;
+}
+
+.foto {
+    width: 100%;
+}
+
+
+
+.todonome {
+    position: relative;
+    top: 10px;
+}
+
+.salva {
+    margin-left: 450px;
+}
+
+
+.icon i {
+    position: relative;
+    right: 100px;
+    top: -5px;
+    margin-left: 2px;
+}
